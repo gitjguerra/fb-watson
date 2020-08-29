@@ -1,15 +1,15 @@
 {
-"wa_username": "",
-"wa_password": "",
-"wa_api_key": "",
-"wa_workspace_id": "",
-"cloudant_url": "",
-"fb_verification_token": "",
-"fb_page_access_token": "",
-"vr_api_key": "",
-"vr_model_id": "",
-"wds_username": "",
-"wds_password": "",
-"wds_enviroment": "",
-"wds_collection_reviews": ""
+	"wa_username": "",
+	"wa_password": "",
+	"wa_api_key": "3sliSPwF1-BeKSpfRE4BaNSFvA7OkxsAsEgvZlTyWWvl",
+	"wa_workspace_id": "",
+	"cloudant_url": "",
+	"fb_verification_token": "Saison3.",
+	"fb_page_access_token": "EAAEvTNpg3LsBAEXZCcD9ZBtddH3LEYNAmh2zRPhbM4Ut750ErhFesX5xbextc5lVhPMMiPSjVaZAPCTruW5VOhKLdPbAZCx1XMrcbXtsoxOy0LF8UvBhart2heoiA0QP4s93pSXdNYI4qXdUvaigZClc4FZAF3AUu46ViOLypwcAZDZD",
+	"vr_api_key": "",
+	"vr_model_id": "",
+	"wds_username": "",
+	"wds_password": "",
+	"wds_enviroment": "",
+	"wds_collection_reviews": ""
 }
